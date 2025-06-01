@@ -9,6 +9,7 @@ Some projects completed so far...
   - number_guessing_game -> Asks the user to guess a number between 1 and 100
   - dice_rolling_game -> Asks the user how how many dice they want to roll and generates random dice rolls
   - rock_paper_scissors -> rock, paper, scissors game with user vs computer
+  - MoshAutomation -> leaned how to use python to edit and add cells to a spreadsheet
 
 In progress...
 
